@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/blood_bank_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/blood_bank_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BloodBlank">
+        <activity
+            android:name=".AwarenessActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutUsActivity"
+            android:exported="false"
+            android:label="@string/about_us" />
+        <activity
+            android:name=".DonorInformationActivity"
+            android:exported="false"
+            android:label="DONOR INFORMATION" />
+        <activity
+            android:name=".BloodDonationsActivity"
+            android:exported="false"
+            android:label="BLOOD DONATIONS" />
+        <activity
+            android:name=".DonationAppreciation"
+            android:exported="false"
+            android:label="THANKS FOR DONATING!"
+            android:theme="@style/Theme.BloodBlank.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

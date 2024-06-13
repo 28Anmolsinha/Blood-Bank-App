@@ -1,0 +1,101 @@
+com/example/bloodblank/MainActivityVPAdapter.java
+ com.example.bloodblank.MainActivityVPAdapter
+com/example/bloodblank/VPAdapter.java
+ com.example.bloodblank.VPAdapter
+com/example/bloodblank/Database.java
+ com.example.bloodblank.Database
+com/example/bloodblank/DonorInformation.java
+ com.example.bloodblank.DonorInformation
+com/example/bloodblank/AwarenessVPAdapter.java
+ com.example.bloodblank.AwarenessVPAdapter
+com/example/bloodblank/BuildConfig.java
+ com.example.bloodblank.BuildConfig
+com/example/bloodblank/databinding/DeveloperInfoLayoutBinding.java
+ com.example.bloodblank.databinding.DeveloperInfoLayoutBinding
+com/example/bloodblank/BloodDonations.java
+ com.example.bloodblank.BloodDonations
+ com.example.bloodblank.BloodDonations$1
+ com.example.bloodblank.BloodDonations$2
+com/example/bloodblank/databinding/BloodTypeAvailableLayoutBinding.java
+ com.example.bloodblank.databinding.BloodTypeAvailableLayoutBinding
+com/example/bloodblank/databinding/DonorInformationCardBinding.java
+ com.example.bloodblank.databinding.DonorInformationCardBinding
+com/example/bloodblank/databinding/BloodGroupAvailableLayoutBinding.java
+ com.example.bloodblank.databinding.BloodGroupAvailableLayoutBinding
+com/example/bloodblank/AwarenessFragment.java
+ com.example.bloodblank.AwarenessFragment
+com/example/bloodblank/databinding/NoBloodDonationAvailableBinding.java
+ com.example.bloodblank.databinding.NoBloodDonationAvailableBinding
+com/example/bloodblank/DonationFragment.java
+ com.example.bloodblank.DonationFragment
+ com.example.bloodblank.DonationFragment$1
+ com.example.bloodblank.DonationFragment$2
+ com.example.bloodblank.DonationFragment$3
+com/example/bloodblank/databinding/ActivityMainBinding.java
+ com.example.bloodblank.databinding.ActivityMainBinding
+com/example/bloodblank/DonateBloodFragment.java
+ com.example.bloodblank.DonateBloodFragment
+ com.example.bloodblank.DonateBloodFragment$1
+ com.example.bloodblank.DonateBloodFragment$2
+ com.example.bloodblank.DonateBloodFragment$3
+com/example/bloodblank/MainActivity.java
+ com.example.bloodblank.MainActivity
+com/example/bloodblank/FirstFragment.java
+ com.example.bloodblank.FirstFragment
+ com.example.bloodblank.FirstFragment$1
+com/example/bloodblank/DonationAppreciation.java
+ com.example.bloodblank.DonationAppreciation
+com/example/bloodblank/databinding/ActivityDonorInformationBinding.java
+ com.example.bloodblank.databinding.ActivityDonorInformationBinding
+com/example/bloodblank/databinding/FragmentDonationBinding.java
+ com.example.bloodblank.databinding.FragmentDonationBinding
+com/example/bloodblank/databinding/ContentDonationAppreciationBinding.java
+ com.example.bloodblank.databinding.ContentDonationAppreciationBinding
+com/example/bloodblank/BloodGroupRVAdapter.java
+ com.example.bloodblank.BloodGroupRVAdapter
+ com.example.bloodblank.BloodGroupRVAdapter$1
+ com.example.bloodblank.BloodGroupRVAdapter$2
+ com.example.bloodblank.BloodGroupRVAdapter$BloodGroupRVHolder
+com/example/bloodblank/databinding/ActivityAwarenessBinding.java
+ com.example.bloodblank.databinding.ActivityAwarenessBinding
+com/example/bloodblank/databinding/FragmentFirstBinding.java
+ com.example.bloodblank.databinding.FragmentFirstBinding
+com/example/bloodblank/AboutUsActivity.java
+ com.example.bloodblank.AboutUsActivity
+com/example/bloodblank/AwarenessActivity.java
+ com.example.bloodblank.AwarenessActivity
+com/example/bloodblank/DonationRVAdapter.java
+ com.example.bloodblank.DonationRVAdapter
+ com.example.bloodblank.DonationRVAdapter$DonationViewHolder
+com/example/bloodblank/databinding/ActivityAboutUsBinding.java
+ com.example.bloodblank.databinding.ActivityAboutUsBinding
+com/example/bloodblank/databinding/FragmentSecondBinding.java
+ com.example.bloodblank.databinding.FragmentSecondBinding
+com/example/bloodblank/AvailabilityFragment.java
+ com.example.bloodblank.AvailabilityFragment
+com/example/bloodblank/SplashScreen.java
+ com.example.bloodblank.SplashScreen
+com/example/bloodblank/databinding/FragmentAwarenessBinding.java
+ com.example.bloodblank.databinding.FragmentAwarenessBinding
+com/example/bloodblank/databinding/BloodDonationDonorInfoLayoutBinding.java
+ com.example.bloodblank.databinding.BloodDonationDonorInfoLayoutBinding
+com/example/bloodblank/BloodDonationsActivity.java
+ com.example.bloodblank.BloodDonationsActivity
+ com.example.bloodblank.BloodDonationsActivity$1
+ com.example.bloodblank.BloodDonationsActivity$2
+com/example/bloodblank/DonorInformationActivity.java
+ com.example.bloodblank.DonorInformationActivity
+com/example/bloodblank/databinding/FragmentAvailabilityBinding.java
+ com.example.bloodblank.databinding.FragmentAvailabilityBinding
+com/example/bloodblank/databinding/DonationInfoCardBinding.java
+ com.example.bloodblank.databinding.DonationInfoCardBinding
+com/example/bloodblank/databinding/ActivitySplashScreenBinding.java
+ com.example.bloodblank.databinding.ActivitySplashScreenBinding
+com/example/bloodblank/databinding/FragmentDonatBloodBinding.java
+ com.example.bloodblank.databinding.FragmentDonatBloodBinding
+com/example/bloodblank/databinding/ActivityBloodDonationsBinding.java
+ com.example.bloodblank.databinding.ActivityBloodDonationsBinding
+com/example/bloodblank/databinding/DeveloperInfoFemaleBinding.java
+ com.example.bloodblank.databinding.DeveloperInfoFemaleBinding
+com/example/bloodblank/databinding/ActivityDonationAppreciationBinding.java
+ com.example.bloodblank.databinding.ActivityDonationAppreciationBinding

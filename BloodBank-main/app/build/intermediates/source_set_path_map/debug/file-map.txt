@@ -1,0 +1,32 @@
+com.example.bloodblank.app-lifecycle-runtime-2.3.1-0 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\0f731de2b4c8d4cbcf60a018d9faf470\transformed\lifecycle-runtime-2.3.1\res
+com.example.bloodblank.app-jetified-viewpager2-1.0.0-1 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\1fde9464cd94951b01fc7fd2364628d7\transformed\jetified-viewpager2-1.0.0\res
+com.example.bloodblank.app-material-1.4.0-2 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\35370f6ab9ebdc647e77800cf8875dfd\transformed\material-1.4.0\res
+com.example.bloodblank.app-browser-1.0.0-3 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\35bc6a4a55c9eb04c729963cde961645\transformed\browser-1.0.0\res
+com.example.bloodblank.app-drawerlayout-1.1.1-4 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\36f7d9df68554ad09ea9cf8b52736506\transformed\drawerlayout-1.1.1\res
+com.example.bloodblank.app-fragment-1.3.6-5 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\3a55d7a871d0205cecfa18b79f80b1a5\transformed\fragment-1.3.6\res
+com.example.bloodblank.app-jetified-savedstate-1.1.0-6 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\49a492204c8f17bf956fd9e2f21fd799\transformed\jetified-savedstate-1.1.0\res
+com.example.bloodblank.app-jetified-appcompat-resources-1.3.1-7 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\52afcac2415d1b602270e9840867289d\transformed\jetified-appcompat-resources-1.3.1\res
+com.example.bloodblank.app-navigation-ui-2.3.5-8 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\5dc1cba8fd7c67ef5f3694db8709934f\transformed\navigation-ui-2.3.5\res
+com.example.bloodblank.app-navigation-runtime-2.3.5-9 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\7ba9173984b5e415a5c7e2d125a1c226\transformed\navigation-runtime-2.3.5\res
+com.example.bloodblank.app-coordinatorlayout-1.1.0-10 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\8b92749d655859e2e53e6ed1654a37bc\transformed\coordinatorlayout-1.1.0\res
+com.example.bloodblank.app-jetified-play-services-basement-17.1.0-11 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\8b9ab83b59f240fe640e413d6ea3be5a\transformed\jetified-play-services-basement-17.1.0\res
+com.example.bloodblank.app-media-1.0.0-12 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\8d182d977723e51d680dd77c35e85a05\transformed\media-1.0.0\res
+com.example.bloodblank.app-constraintlayout-2.1.1-13 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\96e6c46d30d48fb7221996a343919324\transformed\constraintlayout-2.1.1\res
+com.example.bloodblank.app-cardview-1.0.0-14 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\9efbb8ff2644daf98157777cce98e6a6\transformed\cardview-1.0.0\res
+com.example.bloodblank.app-recyclerview-1.1.0-15 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\b595e58d202485e1450717dcdbc55e4d\transformed\recyclerview-1.1.0\res
+com.example.bloodblank.app-navigation-fragment-2.3.5-16 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\b997ffa7ebeb0116c3411b0fe618e6f2\transformed\navigation-fragment-2.3.5\res
+com.example.bloodblank.app-core-1.5.0-17 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\be5d40d92d0f2c27179dee10b492b566\transformed\core-1.5.0\res
+com.example.bloodblank.app-lifecycle-viewmodel-2.3.1-18 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\c4b66b1708666802847240f18d22b135\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.bloodblank.app-transition-1.3.0-19 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\d59d2704b7f97c8f8e23f629d18729e0\transformed\transition-1.3.0\res
+com.example.bloodblank.app-jetified-play-services-base-17.1.0-20 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\df06d13edd307f737c810c0b81142a64\transformed\jetified-play-services-base-17.1.0\res
+com.example.bloodblank.app-navigation-common-2.3.5-21 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\ed1d4e42f2d4dd0a4327640fda109e4e\transformed\navigation-common-2.3.5\res
+com.example.bloodblank.app-appcompat-1.3.1-22 C:\Users\Anmol Sinha\.gradle\caches\transforms-3\f60f080e271b7b2afcc2b509af1486fa\transformed\appcompat-1.3.1\res
+com.example.bloodblank.app-google-services-23 E:\BloodBank-main\app\build\generated\res\google-services\debug
+com.example.bloodblank.app-pngs-24 E:\BloodBank-main\app\build\generated\res\pngs\debug
+com.example.bloodblank.app-resValues-25 E:\BloodBank-main\app\build\generated\res\resValues\debug
+com.example.bloodblank.app-rs-26 E:\BloodBank-main\app\build\generated\res\rs\debug
+com.example.bloodblank.app-mergeDebugResources-27 E:\BloodBank-main\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bloodblank.app-mergeDebugResources-28 E:\BloodBank-main\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bloodblank.app-merged_res-29 E:\BloodBank-main\app\build\intermediates\merged_res\debug
+com.example.bloodblank.app-debug-30 E:\BloodBank-main\app\src\debug\res
+com.example.bloodblank.app-main-31 E:\BloodBank-main\app\src\main\res

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/donation_background"
+    tools:context=".DonateBloodFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/donateBloodTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingVertical="10dp"
+                android:text="@string/donate_blood"
+                android:textColor="@color/donation_card_background"
+                android:textSize="35sp"
+                android:textStyle="bold" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationNameEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:autofillHints="name"
+                    android:backgroundTint="@color/white"
+                    android:hint="@string/name"
+                    android:inputType="textPersonName"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationEmailEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:autofillHints="emailAddress"
+                    android:backgroundTint="@color/white"
+                    android:hint="@string/email"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationPhoneNumberEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:autofillHints="phone"
+                    android:backgroundTint="@color/white"
+                    android:hint="@string/mobile_number"
+                    android:inputType="phone"
+                    android:maxLength="10"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationAddressEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:autofillHints="postalAddress"
+                    android:backgroundTint="@color/white"
+                    android:hint="@string/address"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationPostalCodeEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:autofillHints="postalCode"
+                    android:backgroundTint="@color/white"
+                    android:hint="@string/postal_code"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationHospitalNameEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:backgroundTint="@color/white"
+                    android:hint="@string/hospital_name"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <EditText
+                    android:id="@+id/donationBloodDonatedEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:backgroundTint="@color/white"
+                    android:hint="BLOOD DONATED (in mL)"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <RadioGroup
+                android:id="@+id/genderRadioGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:checkedButton="@id/maleRadioButton"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/maleRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingHorizontal="16dp"
+                    android:text="@string/male" />
+
+                <RadioButton
+                    android:id="@+id/femaleRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingHorizontal="16dp"
+                    android:text="@string/female" />
+
+                <RadioButton
+                    android:id="@+id/otherRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingHorizontal="16dp"
+                    android:text="@string/other" />
+            </RadioGroup>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <TextView
+                    android:id="@+id/donationDateOfBirthTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp"
+                    android:backgroundTint="@color/white"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:hint="@string/date_of_birth"
+                    android:paddingVertical="15dp"
+                    android:textColor="@color/donation_card_text"
+                    android:textColorHint="@color/donation_card_text_hint" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="@color/donation_card_background"
+                app:cardCornerRadius="16dp">
+
+                <Spinner
+                    android:id="@+id/spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="20dp" />
+            </androidx.cardview.widget.CardView>
+
+            <Button
+                android:id="@+id/submitButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="80dp"
+                android:backgroundTint="@color/donation_card_background"
+                android:paddingHorizontal="50dp"
+                android:text="@string/submit"
+                android:textColor="@color/donation_card_text" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

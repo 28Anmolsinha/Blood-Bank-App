@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="donation_background">#FFFFFF</color>
+    <color name="donation_card_background">#FF3232</color>
+    <color name="donation_card_text">#FFFFFF</color>
+    <color name="donation_card_text_hint">#DDFFFFFF</color>
+
+    <color name="aPlusBG">#C50701</color>
+    <color name="AMinusBG">#D80801</color>
+    <color name="ABPlusBG">#FF0800</color>
+    <color name="ABMinusBG">#FD1C1C</color>
+    <color name="BPlusBG">#FB3808</color>
+    <color name="BMinusBG">#FD4518</color>
+    <color name="OPlusBG">#FD5228</color>
+    <color name="OMinusBG">#FD623C</color>
+
+    <color name="blood_donation_card">#FDC314</color>
+
+    <color name="awareness_background">#FFFFFF</color>
+    <color name="awareness_card_background">#F9FBF6</color>
+    <color name="awareness_card_text">#FF1302</color>
+
+</resources>

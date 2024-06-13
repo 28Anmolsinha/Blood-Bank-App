@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37825901844",
+    "project_id": "bloodblank-2e34e",
+    "storage_bucket": "bloodblank-2e34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37825901844:android:b772928b4f434883e2be01",
+        "android_client_info": {
+          "package_name": "com.example.bloodblank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37825901844-7n97bj6uq8p4tollg0rff1q76c8h7dm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIFBYo2aAdk4gyiDLbbkWDerC2Rash_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37825901844-7n97bj6uq8p4tollg0rff1q76c8h7dm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

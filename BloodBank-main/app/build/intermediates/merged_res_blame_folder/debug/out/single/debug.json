@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_donation_appreciation.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_donation_appreciation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_blood_group_available_layout.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\blood_group_available_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable-v24_donation_appreciation.jpg.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable-v24\\donation_appreciation.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable-v24_awareness.png.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable-v24\\awareness.png"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_blood_type_available_layout.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\blood_type_available_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable_next_button.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable\\next_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_fragment_awareness.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\fragment_awareness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_content_donation_appreciation.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\content_donation_appreciation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\anim_fade_in_zoom_in.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\anim\\fade_in_zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_fragment_availability.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\fragment_availability.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable-v24_male.png.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable-v24\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_no_blood_donation_available.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\no_blood_donation_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable-v24_female.png.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable-v24\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_fragment_donat_blood.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\fragment_donat_blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable_splash_screen.jpg.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable\\splash_screen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_donation_info_card.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\donation_info_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_blood_donation_donor_info_layout.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\blood_donation_donor_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_awareness.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_awareness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\anim_logo_fade_in_zoom_in.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\anim\\logo_fade_in_zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_developer_info_layout.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\developer_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_donor_information.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_donor_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\drawable_blood_bank_logo.png.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\drawable\\blood_bank_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_donor_information_card.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\donor_information_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_activity_blood_donations.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\activity_blood_donations.xml"
+    },
+    {
+        "merged": "com.example.bloodblank.app-merged_res-29:/layout_activity_about_us.xml.flat",
+        "source": "com.example.bloodblank.app-main-31:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_developer_info_female.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\developer_info_female.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-merged_res-29:\\layout_fragment_donation.xml.flat",
+        "source": "C:\\Users\\Anmol Sinha\\.gradle\\daemon\\7.5\\com.example.bloodblank.app-main-31:\\layout\\fragment_donation.xml"
+    }
+]
