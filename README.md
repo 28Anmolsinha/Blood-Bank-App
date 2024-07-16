@@ -11,6 +11,7 @@ A Blood Bank Android application developed using Core Java, XML, and Firebase se
   6) It also has a developer information activity.
 
 
+# PREVIEW
 
 <img src="https://github.com/user-attachments/assets/7bbe347c-ad7b-4155-93e1-45afd7bb700c" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/66767005/149990356-481e064b-8df7-49ea-90ce-0c8c012aa80a.jpg" width="250" height="500" /> <img src="https://github.com/user-attachments/assets/f66598d0-0812-4dd6-84a2-375b5034dea5" width="250" height="500"/> 
 <img src="https://github.com/user-attachments/assets/e70a9156-4d90-4f11-b213-cc989f61bf6f" width="250" height="500"/> <img src="https://github.com/user-attachments/assets/d76a0c45-e10c-4f5e-b837-e805be419988" width="250" height="500"/> <img src="https://github.com/user-attachments/assets/46e8a691-0559-47f3-8342-1208fe526b22" width="250" height="500"/> 
