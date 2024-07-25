@@ -25,8 +25,13 @@ Open the application.
 
 # PREVIEW
 
-<img src="https://github.com/user-attachments/assets/7bbe347c-ad7b-4155-93e1-45afd7bb700c" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/66767005/149990356-481e064b-8df7-49ea-90ce-0c8c012aa80a.jpg" width="250" height="500" /> <img src="https://github.com/user-attachments/assets/f66598d0-0812-4dd6-84a2-375b5034dea5" width="250" height="500"/> 
-<img src="https://github.com/user-attachments/assets/e70a9156-4d90-4f11-b213-cc989f61bf6f" width="250" height="500"/> <img src="https://github.com/user-attachments/assets/d76a0c45-e10c-4f5e-b837-e805be419988" width="250" height="500"/> <img src="https://github.com/user-attachments/assets/46e8a691-0559-47f3-8342-1208fe526b22" width="250" height="500"/> 
-<img src="https://github.com/user-attachments/assets/a07bb136-548d-4585-a90c-b55313ef2d73"  width="250" height="500"/> <img src="https://github.com/user-attachments/assets/f8a2e7f9-074e-42d9-ab52-f30b772b8d85" width="250" height="500"/> <img src="https://github.com/28Anmolsinha/Blood-Bank-App/assets/108416761/1564ca4f-f116-4175-b4af-1f00e9d42343" width="250" height="500"/>
-
+<img src="https://github.com/user-attachments/assets/2b5c4a07-77fb-49bb-a16a-9efd9cc52c49" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/6e35b381-3133-4f69-bd97-40c7f734dbbc" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/3a6c663a-fbcd-4701-ac16-584fe246f2ea" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/2ee6d675-c4ee-47f7-b5b4-a20ade86da5e" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/bc234280-799b-4ca8-b9c4-42f64d6673d1" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/a99c4b97-a255-4857-968a-712fac394bdd" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/ddf7f024-1c2c-4dfc-8d17-50e7649671b6" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/90fcdccd-38fd-4f41-b77f-8ab8b48791d3" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/14c1272a-3cac-44e9-af14-c96043657828" width="250" height="500"/>
 
